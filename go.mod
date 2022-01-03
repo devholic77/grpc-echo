@@ -1,4 +1,4 @@
-module github.com/devholic77/grpc
+module github.com/devholic77/grpc-echo
 
 go 1.16
 
