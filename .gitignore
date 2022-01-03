@@ -1,0 +1,19 @@
+# Object files
+*.o
+*.obj
+*.so
+*.dylib
+*.a
+*.lib
+
+# dlv
+*.test
+*.pid
+dlv_exec.sh
+
+# ETC
+core
+.idea
+.DS_Store
+*.swp
+
